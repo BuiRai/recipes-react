@@ -1,0 +1,9 @@
+.detail-container {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.detail-container img {
+    width: 70%;
+}
